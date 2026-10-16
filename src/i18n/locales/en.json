@@ -1,0 +1,84 @@
+{
+  "home": {
+    "greeting": "Hello, {{name}}",
+    "subtitle": "Ready for a quiz?",
+    "level": "Level {{level}}",
+    "xp": "{{xp}} XP",
+    "xpProgress": "{{current}} / {{total}} XP to the next level",
+    "dailyTitle": "Daily challenge",
+    "dailyTodo": "Ten questions, once a day.",
+    "dailyDone": "Today's challenge is complete.",
+    "streak_one": "{{count}} day in a row",
+    "streak_other": "{{count}} days in a row",
+    "playDaily": "Start the challenge",
+    "replayDaily": "Replay the challenge",
+    "replayHint": "Replaying does not award more XP today.",
+    "categories": "Choose a category",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "categories": {
+    "title": "Categories",
+    "general": "General knowledge",
+    "geography": "Geography",
+    "science": "Science",
+    "logic": "Logic",
+    "generalHint": "A mix of things worth knowing.",
+    "geographyHint": "Countries, capitals, and landforms.",
+    "scienceHint": "Nature, the human body, and space.",
+    "logicHint": "Sequences, deductions, and sums."
+  },
+  "quiz": {
+    "daily": "Daily challenge",
+    "progress": "Question {{current}} / {{total}}",
+    "timer": "{{seconds}} s",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "empty": "No questions available."
+  },
+  "result": {
+    "title": "Results",
+    "score": "{{score}} / {{total}}",
+    "xp": "+{{xp}} XP",
+    "noXp": "No XP: today's challenge is already complete.",
+    "correctAnswer": "Correct answer: {{answer}}",
+    "yourAnswer": "Your answer: {{answer}}",
+    "unanswered": "No answer",
+    "replay": "Play again",
+    "home": "Home"
+  },
+  "profile": {
+    "title": "Profile",
+    "defaultName": "Player",
+    "nickname": "Nickname",
+    "level": "Level",
+    "quizzes": "Quizzes finished",
+    "correct": "Correct answers",
+    "badges": "Badges",
+    "history": "History",
+    "emptyHistory": "No games yet.",
+    "historyLine": "{{date}} · {{category}} · {{score}}/{{total}} · +{{xp}} XP"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "french": "Français",
+    "english": "English",
+    "sound": "Sound",
+    "soundHint": "Preference saved. Sound effects will come later.",
+    "timer": "Timed mode",
+    "timerHint": "20 seconds per question."
+  },
+  "badges": {
+    "first_quiz": "First quiz",
+    "first_quizHint": "Finish your first game.",
+    "perfect_score": "Perfect score",
+    "perfect_scoreHint": "Answer every question in a quiz correctly.",
+    "quizzes_10": "Ten quizzes",
+    "quizzes_10Hint": "Finish ten quizzes.",
+    "daily_first": "First challenge",
+    "daily_firstHint": "Finish a daily challenge.",
+    "streak_3": "3-day streak",
+    "streak_3Hint": "Play the daily challenge three days in a row."
+  }
+}

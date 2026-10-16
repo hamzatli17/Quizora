@@ -1,0 +1,84 @@
+{
+  "home": {
+    "greeting": "Bonjour, {{name}}",
+    "subtitle": "Prêt pour un quiz ?",
+    "level": "Niveau {{level}}",
+    "xp": "{{xp}} XP",
+    "xpProgress": "{{current}} / {{total}} XP vers le niveau suivant",
+    "dailyTitle": "Défi du jour",
+    "dailyTodo": "Dix questions, une seule fois par jour.",
+    "dailyDone": "Défi terminé pour aujourd'hui.",
+    "streak_one": "{{count}} jour d'affilée",
+    "streak_other": "{{count}} jours d'affilée",
+    "playDaily": "Lancer le défi",
+    "replayDaily": "Rejouer le défi",
+    "replayHint": "Rejouer ne rapporte plus d'XP aujourd'hui.",
+    "categories": "Choisir une catégorie",
+    "profile": "Profil",
+    "settings": "Paramètres"
+  },
+  "categories": {
+    "title": "Catégories",
+    "general": "Culture générale",
+    "geography": "Géographie",
+    "science": "Sciences",
+    "logic": "Logique",
+    "generalHint": "Un mélange de connaissances.",
+    "geographyHint": "Pays, capitales et reliefs.",
+    "scienceHint": "Nature, corps humain et univers.",
+    "logicHint": "Suites, déductions et calculs."
+  },
+  "quiz": {
+    "daily": "Défi du jour",
+    "progress": "Question {{current}} / {{total}}",
+    "timer": "{{seconds}} s",
+    "correct": "Bonne réponse",
+    "incorrect": "Mauvaise réponse",
+    "empty": "Aucune question disponible."
+  },
+  "result": {
+    "title": "Résultats",
+    "score": "{{score}} / {{total}}",
+    "xp": "+{{xp}} XP",
+    "noXp": "Aucun XP : le défi du jour est déjà validé.",
+    "correctAnswer": "Bonne réponse : {{answer}}",
+    "yourAnswer": "Votre réponse : {{answer}}",
+    "unanswered": "Sans réponse",
+    "replay": "Rejouer",
+    "home": "Accueil"
+  },
+  "profile": {
+    "title": "Profil",
+    "defaultName": "Joueur",
+    "nickname": "Pseudonyme",
+    "level": "Niveau",
+    "quizzes": "Quiz terminés",
+    "correct": "Bonnes réponses",
+    "badges": "Badges",
+    "history": "Historique",
+    "emptyHistory": "Aucune partie pour le moment.",
+    "historyLine": "{{date}} · {{category}} · {{score}}/{{total}} · +{{xp}} XP"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "french": "Français",
+    "english": "English",
+    "sound": "Sons",
+    "soundHint": "Préférence enregistrée. Les effets sonores arriveront plus tard.",
+    "timer": "Mode chronométré",
+    "timerHint": "20 secondes par question."
+  },
+  "badges": {
+    "first_quiz": "Premier quiz",
+    "first_quizHint": "Terminer une première partie.",
+    "perfect_score": "Sans-faute",
+    "perfect_scoreHint": "Réussir toutes les questions d'un quiz.",
+    "quizzes_10": "Dix quiz",
+    "quizzes_10Hint": "Terminer dix quiz.",
+    "daily_first": "Premier défi",
+    "daily_firstHint": "Terminer un défi du jour.",
+    "streak_3": "Série de 3 jours",
+    "streak_3Hint": "Jouer le défi trois jours de suite."
+  }
+}
